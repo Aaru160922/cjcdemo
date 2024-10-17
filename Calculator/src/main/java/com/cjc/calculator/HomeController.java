@@ -15,5 +15,8 @@ public class HomeController {
 		System.out.println(b);
 	}
 		
-	
+	public void multiplication(){
+		int c = 2*2;
+		System.out.println(c);
+	}
 }
